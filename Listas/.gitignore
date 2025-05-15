@@ -173,7 +173,13 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# dirs
-Notas\ de\ aula/
+# zip files
+*.zip
+# tar files
+*.tar*
 
-Listas/lista_01/lista_01_ama/lista_01.pdf
+# pdf
+*.pdf
+
+# csv
+*.csv
